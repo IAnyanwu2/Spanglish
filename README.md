@@ -1,4 +1,4 @@
-eb Development Project 3 - *English or Spanish*
+Web Development Project 3 - *English or Spanish*
 
 Submitted by: **Ikechukwu Anyanwu**
 
@@ -36,8 +36,6 @@ GIF created with LICEcap
 
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
